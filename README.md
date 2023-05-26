@@ -1,5 +1,5 @@
 # simple-docker-php-server
-A simple (Docker)[https://docs.docker.com/get-docker/] setup for an Apache server with PHP and dynamic virtual hosts.
+A simple [Docker](https://docs.docker.com/get-docker/) setup for an Apache server with PHP and dynamic virtual hosts.
 
 Command to fire up the server:
 ```
