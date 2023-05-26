@@ -1,0 +1,11 @@
+services:
+  web:
+    build:
+      context: .
+    volumes:
+      - "./vhosts:/var/www/html/vhosts"
+      # - "./vhosts:/usr/local/apache2/htdocs/vhosts"
+    ports:
+      - "80:80"
+volumes:
+  myapp:

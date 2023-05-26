@@ -1,0 +1,1 @@
+<?= "And this is a PHP file on a test subdomain!" ?>
